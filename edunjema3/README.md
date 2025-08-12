@@ -61,7 +61,5 @@ A powerful mobile application built with Flutter that helps Kenyan teachers easi
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/kicd-lesson-planner.git
-cd kicd-lesson-planner
+https://github.com/Clivendemo/Edunjema-App.git
 
